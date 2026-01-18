@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**AArc02/AArc02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Arsene https://github.com/AArc02  en formation data science et machine learning, 
+avec un fort intérêt pour l’analyse quantitative appliquée à la finance et à la banque. 
 
-Here are some ideas to get you started:
+Je me forme au métier de  Machine Learning Engineer et je développe des projets autour de :
+	•	l’analyse exploratoire de données
+	•	la visualisation
+	•	les modèles prédictifs
+	•	des cas concrets orientés business et finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  Outils que j’utilise
+	•	Langage : Python
+	•	Librairies : pandas, numpy, scikit-learn, matplotlib, seaborn
+	•	Data viz & BI : Power BI
+	•	Environnement : Jupyter Notebook, Git, GitHub
+
+J'ai plus de 20 repositories, en privée plus de 30.
+
+
+Faits amusants
+  •	j'aime le thé
+	•	Hell's paradise et solo levening sont mes animes favoris
+	•	Loisirs : Basketball, Football et voyage
