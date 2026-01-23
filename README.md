@@ -18,8 +18,12 @@ Je me forme au métier de  Machine Learning Engineer et je développe des projet
   ### Outils que j’utilise
 	•	Langage : Python
 	•	Librairies : pandas, numpy, scikit-learn, matplotlib, seaborn
-	•	Data viz & BI : Power BI
-	•	Environnement : Jupyter Notebook, Git, GitHub
+	•	Data viz & BI : Power BI, Streamlit - Applications web interactives pour la data science et démo de modèles ML
+	•	Environnement : Jupyter Notebook, Git, GitHub 
+	•	Cloud & Déploiement: Google Cloud Platform (GCP) - Déploiement d'applications ML (Cloud Run, Cloud Storage, BigQuery)
+	
+
+	
 
 J'ai plus de  repositories des projets concrets travails en autodictate.
 
